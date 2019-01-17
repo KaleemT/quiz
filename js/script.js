@@ -61,3 +61,15 @@ function q4Score(input){
         return 2;
     }
 }
+
+function quizResult(input){
+    if(input >= 16){
+        return "A hard working partner, romantic and shows you a lot of love and will do anything that'll make you feel better"
+    }else if(input >= 10)
+        return ""
+    }else if(input >= 5)
+        return ""
+    }else if(input >= 1)
+        return ""
+    }
+}
